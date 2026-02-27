@@ -1,63 +1,89 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getImage } from "astro:assets";
+import Content2 from "../components/widgets/Content2.astro";
+import Values from "../components/widgets/Values.astro";
+import aboutImage from "../assets/images/about-office.webp";
+
+const metadata = {
+    title: "关于我们",
+    description:
+        "二猫子专注机场推荐与评测，提供稳定性、速度、价格与风险预警等实测信息，帮助你更快找到适合自己的机场服务。",
+    keywords: ["关于我们", "机场推荐", "机场评测", "科学上网", "翻墙"],
+};
+
+const values = [
+    {
+        title: "真实评测",
+        description:
+            "每篇推荐都基于实际使用体验，重点关注晚高峰稳定性、延迟、流媒体与 AI 解锁表现。",
+    },
+    {
+        title: "持续更新",
+        description:
+            "站点长期维护，定期更新套餐价格、优惠信息与节点质量变化，减少过时信息误导。",
+    },
+    {
+        title: "风险预警",
+        description:
+            "关注机场跑路、频繁掉线、服务异常等信号，帮助用户提前规避高风险服务商。",
+    },
+    {
+        title: "选择建议",
+        description:
+            "按预算、流量、设备数量与使用场景给出清晰建议，让新手也能快速做出合适选择。",
+    },
+    {
+        title: "教程友好",
+        description:
+            "提供 Clash、Shadowrocket、Windows、Android 等常见客户端的入门与配置指引。",
+    },
+    {
+        title: "用户优先",
+        description:
+            "以可用性与长期体验为核心，不盲目追求噱头参数，优先推荐稳定、透明、可持续的服务。",
+    },
+];
+
+const optimizedImage = await getImage({
+    src: aboutImage,
+    format: "webp",
+});
 ---
 
-<Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage={AboutHeroImage}
->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-	</p>
-
-	<p>
-		Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non
-		tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non
-		blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna
-		porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis
-		massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-		Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis
-		bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra
-		massa massa ultricies mi.
-	</p>
-
-	<p>
-		Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl
-		suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet
-		nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae
-		turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem
-		dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat
-		semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-		vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum
-		facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam
-		vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla
-		urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-	</p>
-
-	<p>
-		Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper
-		viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc
-		scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur
-		gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus
-		pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-		blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id
-		cursus metus aliquam eleifend mi.
-	</p>
-
-	<p>
-		Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta
-		nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam
-		tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci
-		ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar
-		proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
-	</p>
-</Layout>
+<BaseLayout {metadata}>
+    <link slot="head" rel="preload" href={optimizedImage.src} as="image" />
+    <Content2
+        title="我们为什么做这个站"
+        description={[
+            "二猫子希望把‘机场推荐’这件事做得更透明：不仅告诉你哪个好，还会说明为什么好、适合谁、有哪些潜在风险。",
+            "我们重点覆盖价格、线路质量、稳定性、解锁能力和客服响应等维度，并通过持续更新，帮助你在变化很快的环境里减少试错成本。",
+        ]}
+        tagline="关于我们"
+        image={aboutImage}
+        imageAlt="机场评测与推荐"
+        actions={[
+            {
+                text: "联系站长",
+                href: "https://t.me/ermaozi01",
+                variant: "primary",
+                icon: "lucide:mail",
+                target: "_blank",
+                rel: "noopener noreferrer",
+            },
+            {
+                text: "查看机场推荐",
+                href: "/blog",
+                variant: "secondary",
+                icon: "lucide:arrow-right",
+            },
+        ]}
+    />
+    <Values
+        items={values}
+        columns={3}
+        tagline="我们的原则"
+        title="我们如何做推荐"
+        subtitle="以实测和长期可用性为核心，尽量给出可验证、可执行的选择参考"
+    />
+</BaseLayout>

@@ -1,0 +1,85 @@
+---
+import { siteConfig } from "../../config/site";
+
+interface Props {
+    type: "WebSite" | "BlogPosting" | "BreadcrumbList" | "CollectionPage";
+    data: {
+        title?: string;
+        description?: string;
+        image?: string;
+        pubDate?: Date;
+        author?: string;
+        url?: string;
+        tags?: string[];
+    };
+}
+
+const { type, data } = Astro.props;
+const sameAs = [
+    siteConfig.socialLinks?.telegram,
+    siteConfig.socialLinks?.email,
+    siteConfig.twitter
+].filter(Boolean);
+const imageUrl = data.image
+    ? new URL(data.image, siteConfig.url).toString()
+    : undefined;
+
+let schema = {};
+
+if (type === "WebSite") {
+    schema = {
+        "@context": "https://ermao.org",
+        "@type": "WebSite",
+        name: siteConfig.name,
+        url: siteConfig.url,
+        description: siteConfig.description,
+        author: {
+            "@type": "Person",
+            name: siteConfig.author,
+        },
+        sameAs,
+    };
+} else if (type === "BlogPosting") {
+    schema = {
+        "@context": "https://ermao.org",
+        "@type": "BlogPosting",
+        headline: data.title,
+        description: data.description,
+        image: imageUrl,
+        datePublished: data.pubDate,
+        keywords: data.tags,
+        author: {
+            "@type": "Person",
+            name: data.author,
+        },
+        mainEntityOfPage: {
+            "@type": "WebPage",
+            "@id": data.url,
+        },
+        publisher: {
+            "@type": "Organization",
+            name: siteConfig.name,
+            logo: {
+                "@type": "ImageObject",
+                // Placeholder, ideally should be a real logo URL
+                url: new URL("/favicon.svg", siteConfig.url).toString(),
+            },
+        },
+    };
+} else if (type === "CollectionPage") {
+    schema = {
+        "@context": "https://ermao.org",
+        "@type": "CollectionPage",
+        name: data.title,
+        description: data.description,
+        url: data.url,
+        isPartOf: {
+            "@type": "WebSite",
+            name: siteConfig.name,
+            url: siteConfig.url,
+        },
+    };
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

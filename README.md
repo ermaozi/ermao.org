@@ -1,62 +1,109 @@
-# Astro Starter Kit: Blog
+# 🚀 Astro Starter Pro
 
-```sh
-pnpm create astro@latest -- --template blog
+**Astro Starter Pro** is a professional, open-source template for building fast websites using **[Astro 5](https://astro.build/) + [Tailwind CSS 4](https://tailwindcss.com/)**. Designed with industry best practices, optimized SEO, and a modern development experience.
+
+<br>
+
+[![GitHub stars](https://badgen.net/github/stars/devgelo-labs/astro-starter-pro?icon=github&label=Star)](https://github.com/devgelo-labs/astro-starter-pro)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
+[![Astro](https://img.shields.io/badge/Astro-5.0-orange?style=flat-square&logo=astro)](https://astro.build/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Maintainer](https://img.shields.io/badge/maintainer-devgelo-purple?style=flat-square)](https://github.com/devgelo-labs)
+
+<br>
+
+<details open>
+<summary>Table of Contents</summary>
+
+- [Demo](#demo)
+- [Features](#features)
+- [Quick Start](#quick-start)
+- [Configuration](#configuration)
+- [Commands](#commands)
+- [License](#license)
+
+</details>
+
+<br>
+
+## Demo
+
+📌 [https://astrostarterpro.com/](https://astrostarterpro.com/)
+
+## Features
+
+- ✅ **Dark & Light Mode**: Clean implementation.
+- ✅ **Optimized SEO**: Automatic meta tags, Structured Data (JSON-LD), RSS Feed, Open Graph, Twitter Cards, and native Sitemap.
+- ✅ **Clean Architecture**: Organized and scalable code.
+- ✅ **Reusable Components**: Navbar, Footer, and modern Layouts with Tailwind v4.
+
+<br>
+
+<img alt="Image" src="./github/astro-starter-pro.png" />
+
+<br>
+
+## Quick Start
+
+To start with this project locally, clone the repository and install dependencies:
+
+```bash
+# Clone the repository
+git clone https://github.com/devgelo-labs/astro-starter-pro.git
+
+# If you like it, don't forget to leave a star! ⭐
+cd astro-starter-pro
+npm install
+npm run dev
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+<br>
 
-Features:
+## Configuration
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+All global site information is managed in `src/config/site.ts`. Update this file with your data:
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+```typescript
+// src/config/site.ts
+export const siteConfig = {
+  name: "Astro Starter Pro",
+  description: "Your SEO description",
+  url: "https://astrostarterpro.com",
+  author: "Angelo Pescetto",
+  // ...
+};
 ```
+<br>
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+<img alt="PageSpeed Insights Score 100/100" src="https://github.com/user-attachments/assets/541d4bfc-bcb9-4287-bd91-08564108d706" />
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+<br>
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+## Commands
 
-Any static assets, like images, can be placed in the `public/` directory.
+| Command             | Action                                             |
+| :------------------ | :------------------------------------------------- |
+| `npm run dev`       | Starts the development server at `localhost:4321`. |
+| `npm run build`     | Generates the static site in the `dist/` folder.   |
+| `npm run preview`   | Previews the production build locally.             |
+| `npm run lint`      | Runs ESLint to ensure code quality.                |
+| `npm run format`    | Formats code with Prettier.                        |
+| `npm run fix`       | Runs format and lint auto-fix.                     |
+| `npm run check`     | Runs astro check for diagnostics.                  |
+| `npm run typecheck` | Verifies TypeScript types.                         |
 
-## 🧞 Commands
+<br>
 
-All commands are run from the root of the project, from a terminal:
+## Support the Project
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+If you find this starter useful, please consider giving it a ⭐ on GitHub! It helps more people discover the project.
 
-## 👀 Want to learn more?
+<br>
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## License
 
-## Credit
+This project is under the **MIT** license. See the [LICENSE](./LICENSE) file for more details.
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+---
+
+Designed by [Devgelo Labs](https://github.com/devgelo-labs)

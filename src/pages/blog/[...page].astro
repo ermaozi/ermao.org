@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import Headline from "../../components/ui/Headline.astro";
+import Pagination from "../../components/ui/Pagination.astro";
+import PostItem from "../../components/blog/PostItem.astro";
+import type { GetStaticPathsOptions } from "astro";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const blogEntries = await getCollection("blog");
+    const sortedPosts = blogEntries
+        .filter((post) => post.data && post.data.pubDate)
+        .sort((a, b) => {
+            const pinnedA = a.data.pinned ? 1 : 0;
+            const pinnedB = b.data.pinned ? 1 : 0;
+            if (pinnedA !== pinnedB) {
+                return pinnedB - pinnedA;
+            }
+            return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+        });
+
+    const featuredPost = sortedPosts.find((post) => post.data.pinned);
+    const paginatedPosts = featuredPost
+        ? sortedPosts.filter((post) => post.id !== featuredPost.id)
+        : sortedPosts;
+
+    return paginate(paginatedPosts, { pageSize: 6, props: { featuredPost } });
+}
+
+const { page, featuredPost } = Astro.props;
+const blog = page.data;
+const pageNumber = page.currentPage;
+const shouldShowFeatured = pageNumber === 1 && !!featuredPost;
+const normalPosts = blog;
+
+const metadata = {
+    title: pageNumber > 1 ? `博客 - 第 ${pageNumber} 页` : "博客",
+    description:
+        "二猫子翻墙机场严选博客，持续更新机场推荐、评测与使用教程，帮助你快速选择稳定高速节点。",
+    keywords: ["机场推荐", "翻墙", "VPN", "节点评测", "科学上网"],
+    canonical: Astro.url.href,
+};
+---
+
+<BaseLayout metadata={metadata}>
+    <section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
+        <div class="absolute inset-0 z-0">
+            <div
+                class="absolute inset-0 bg-linear-to-br from-blue-500/5 via-transparent to-pink-500/5"
+            >
+            </div>
+        </div>
+        <div class="relative mx-auto max-w-5xl">
+            <Headline
+                tagline=""
+                title="二猫子翻墙机场严选"
+                subtitle="2026年最新的机场推荐，提供高速稳定的翻墙服务，满足您的上网需求。"
+                classes={{
+                    container: "mb-12 text-center",
+                    title: "font-heading mb-4 text-4xl font-bold tracking-tight text-foreground md:text-6xl",
+                    subtitle: "mx-auto max-w-3xl text-xl text-muted-foreground",
+                }}
+            />
+
+            {
+                shouldShowFeatured && (
+                    <div class="mb-10 md:mb-12">
+                        <PostItem post={featuredPost} isFeatured={true} />
+                    </div>
+                )
+            }
+
+            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+                {normalPosts.map((post) => <PostItem post={post} />)}
+            </div>
+            <Pagination page={page} />
+        </div>
+    </section>
+</BaseLayout>
