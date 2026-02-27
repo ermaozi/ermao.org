@@ -1,3 +1,29 @@
 ---
-return Astro.redirect('/blog');
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import BlogListSection from "../components/blog/BlogListSection.astro";
+import { organizeBlogPosts } from "../utils/blog";
+
+const blogEntries = await getCollection("blog");
+const { featuredPost, regularPosts } = organizeBlogPosts(blogEntries);
+const normalPosts = regularPosts.slice(0, 6);
+
+const metadata = {
+	title: "博客",
+	description:
+		"二猫子翻墙机场严选博客，持续更新机场推荐、评测与使用教程，帮助你快速选择稳定高速节点。",
+	keywords: ["机场推荐", "翻墙", "VPN", "节点评测", "科学上网"],
+	canonical: Astro.url.href,
+};
 ---
+
+<BaseLayout metadata={metadata}>
+	<BlogListSection
+		posts={normalPosts}
+		featuredPost={featuredPost}
+		showFeatured={true}
+		showMoreLink={true}
+		moreLinkHref="/blog"
+		moreLinkText="查看更多文章"
+	/>
+</BaseLayout>

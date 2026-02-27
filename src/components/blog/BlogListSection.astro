@@ -1,0 +1,77 @@
+---
+import type { CollectionEntry } from "astro:content";
+import type { Page } from "astro";
+import Headline from "../ui/Headline.astro";
+import Pagination from "../ui/Pagination.astro";
+import PostItem from "./PostItem.astro";
+
+export interface Props {
+    posts: CollectionEntry<"blog">[];
+    featuredPost?: CollectionEntry<"blog">;
+    showFeatured?: boolean;
+    page?: Page<CollectionEntry<"blog">>;
+    showMoreLink?: boolean;
+    moreLinkHref?: string;
+    moreLinkText?: string;
+}
+
+const {
+    posts,
+    featuredPost,
+    showFeatured = false,
+    page,
+    showMoreLink = false,
+    moreLinkHref = "/blog",
+    moreLinkText = "查看更多文章",
+} = Astro.props;
+---
+
+<section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
+    <div class="absolute inset-0 z-0">
+        <div
+            class="absolute inset-0 bg-linear-to-br from-blue-500/5 via-transparent to-pink-500/5"
+        >
+        </div>
+    </div>
+    <div class="relative mx-auto max-w-5xl">
+        <Headline
+            tagline=""
+            title="二猫子翻墙机场严选"
+            subtitle="2026年最新的机场推荐，提供高速稳定的翻墙服务，满足您的上网需求。"
+            classes={{
+                container: "mb-12 text-center",
+                title: "font-heading mb-4 text-4xl font-bold tracking-tight text-foreground md:text-6xl",
+                subtitle: "mx-auto max-w-3xl text-xl text-muted-foreground",
+            }}
+        />
+
+        {
+            showFeatured && featuredPost && (
+                <div class="mb-10 md:mb-12">
+                    <PostItem post={featuredPost} isFeatured={true} />
+                </div>
+            )
+        }
+
+        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {posts.map((post) => <PostItem post={post} />)}
+        </div>
+
+        {
+            page ? (
+                <Pagination page={page} />
+            ) : (
+                showMoreLink && (
+                    <div class="mt-10 text-center">
+                        <a
+                            href={moreLinkHref}
+                            class="inline-flex items-center justify-center rounded-full border border-border bg-card px-6 py-3 text-sm font-medium text-foreground transition-colors hover:bg-muted"
+                        >
+                            {moreLinkText}
+                        </a>
+                    </div>
+                )
+            )
+        }
+    </div>
+</section>
