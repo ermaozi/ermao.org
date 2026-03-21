@@ -237,9 +237,7 @@ SSone机场凭借其灵活的套餐和覆盖广泛的节点，适合以下几类
 ### 🏆 更多机场推荐
 - 🌟 [2026年最新机场推荐汇总](https://www.ermao.net/posts/vpn/)
 - 💰 [热门便宜机场推荐](https://www.ermao.net/airport/)
-- 📖 [什么是翻墙？科学上网新手入门指南](/article/what-is-vpn/)
-- 🔍 [如何选择适合自己的机场](/article/how-to-choose-vpn/)
-- 🆓 [免费机场推荐与风险提示](/article/free-vpn/)
+
 
 
 ## 📱 客户端下载与使用教程
