@@ -137,7 +137,7 @@ tags:
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|[前往](/blog/青云梯/)|
 |[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)| 无 |11元 50G/月|✔|[TG](https://t.me/superbiu888)|[前往](/blog/superbiu/)|
 |[随便云](#随便云)|[suibian.cloud](https://suibian.cloud/register?code=YZxHwCws)| 无 |10元 68G/月|✔|[TG](https://t.me/suibianvip)|[前往](/blog/随便云/)|
-|[灯塔cloud](#灯塔cloud)|[dengtacloud.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)| 无 |10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|[前往](/blog/灯塔cloud/)|
+|[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)| 无 |10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|[前往](/blog/灯塔cloud/)|
 |[CAC](#cac)|[www.cac.mom](https://www.cac.mom/#/register?code=kYL5chvN)| 无 |7.9元 168G/月|❌|[TG](https://t.me/CAC_Apex)|暂无|
 |[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元60g/月(季付)|❌|[TG](https://t.me/TNTCloud2)|[前往](/blog/tnt/)|
 |[百变小樱](#百变小樱)|[bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|[前往](/blog/百变小樱/)|
@@ -568,16 +568,16 @@ xxyun加速特性如下：
 
 ### 灯塔cloud
 
-灯塔cloud官网地址：[https://dengtacloud.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+灯塔cloud官网地址：[https://www.dengta.cloud/#/register?code=n4jB4z5R](https://www.dengta.cloud/#/register?code=n4jB4z5R)
 
 最便宜的订阅有10元 100G/月。
 
 | 套餐 | 价格 | 流量 | 购买地址 |
 | --- | --- | --- | --- |
-| 标准版 | ¥70.00/6个月 | 100GB/月 | [点击购买](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R) |
-| 个人套餐(三个月) | ¥89.00/三个月 | 600GB/月 | [点击购买](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R) |
-| 个人套餐(六个月) | ¥155.00/六个月 | 600GB/月 | [点击购买](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R) |
-| 个人套餐(一年) | ¥279.00/一年 | 600GB/月 | [点击购买](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R) |
+| 标准版 | ¥70.00/6个月 | 100GB/月 | [点击购买](https://www.dengta.cloud/#/register?code=n4jB4z5R) |
+| 个人套餐(三个月) | ¥89.00/三个月 | 600GB/月 | [点击购买](https://www.dengta.cloud/#/register?code=n4jB4z5R) |
+| 个人套餐(六个月) | ¥155.00/六个月 | 600GB/月 | [点击购买](https://www.dengta.cloud/#/register?code=n4jB4z5R) |
+| 个人套餐(一年) | ¥279.00/一年 | 600GB/月 | [点击购买](https://www.dengta.cloud/#/register?code=n4jB4z5R) |
 
 灯塔cloud机场客服响应速度很快，态度非常好，节点质量也很棒。灯塔Cloud团队会定期更新节点列表，确保节点的稳定性和可用性。同时，节点会根据网络状况动态调整，提供最优的连接体验。
 
