@@ -127,6 +127,8 @@ tags:
 |[极连云](#极连云)|[ermaozi01.jlcvipaff.cc](https://ermaozi01.jlcvipaff.cc/#/register?code=GHDiZb1m)| 无 |8元 60G/月|✔|[TG](https://t.me/JLYCloud)|[前往](/blog/极连云/)|
 |[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)| 1月1G | 25元 150G/月|❌|[TG](https://t.me/OldManVPN)|[前往](/blog/老头vpn/)|
 |[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)| 无 |8.8元 300GB/月|❌|暂无|[前往](/blog/梦想云/)|
+|[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)| 无 |8.25元 59G/月|❌|暂无|[前往](/blog/瞬云/)|
+|[传送门](#传送门)|[csmfby.com](https://www.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)| 无 |3元 88GB/月|✔|[TG](https://t.me/dankewed1)|[前往](/blog/danke/)|
 |[星岛梦](#星岛梦)|[ermaov1.xdmvipaff.cc](https://ermaov1.xdmvipaff.cc/#/?code=O9Q9H6VY)| 无 |16元 100G/月|✔|[TG](https://t.me/XDM6666666)|[前往](/blog/星岛梦/)|
 |[uuone](#uuone)|[uuone.de](https://uuone.de/ermao.html)| 无 |12元 150G/月|✔|暂无|[前往](/blog/uuone/)|
