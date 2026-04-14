@@ -128,6 +128,7 @@ tags:
 |[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)| 1月1G | 25元 150G/月|❌|[TG](https://t.me/OldManVPN)|[前往](/blog/老头vpn/)|
 |[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)| 无 |8.8元 300GB/月|❌|暂无|[前往](/blog/梦想云/)|
 |[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)| 无 |8.25元 59G/月|❌|暂无|[前往](/blog/瞬云/)|
+|[二猫云](#二猫云)|[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)| 无 |20元 100GB/月|❌|暂无|[前往](/blog/ermaoyun/)|
 |[Sogo云](#sogo云)|[falvorn.sogoyunt.cc](https://falvorn.sogoyunt.cc/#/register?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
 |[传送门](#传送门)|[csmfby.com](https://www.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)| 无 |3元 88GB/月|✔|[TG](https://t.me/dankewed1)|[前往](/blog/danke/)|
@@ -192,6 +193,22 @@ tags:
 以上所有套餐均有月付、季付、半年、一年、两年、三年等多种付费周期可选。
 
 这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
+
+
+### 二猫云
+
+二猫云官网地址：[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)
+
+最便宜的订阅有20元 100GB/月。
+
+二猫云是新开业专线机场，当前更适合做阶段性验证，重点观察晚高峰可用性和连续数周稳定性。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
+|----------|------|------|----------|----------|
+| 白猫套餐 | 20元/月 | 100GB/月 | 轻度用户、备用线用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 橘猫畅玩版 | 40元/月 | 200GB/月 | 日常主力候选 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 牛奶猫尊享版 | 80元/月 | 400GB/月 | 中重度用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 黑猫无限版 | 160元/月 | 800GB/月 | 高频多设备用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
 
 
 ### Sogo云
