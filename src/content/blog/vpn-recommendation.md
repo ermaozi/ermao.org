@@ -128,6 +128,7 @@ tags:
 |[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)| 1月1G | 25元 150G/月|❌|[TG](https://t.me/OldManVPN)|[前往](/blog/老头vpn/)|
 |[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)| 无 |8.8元 300GB/月|❌|暂无|[前往](/blog/梦想云/)|
 |[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)| 无 |8.25元 59G/月|❌|暂无|[前往](/blog/瞬云/)|
+|[Sogo云](#sogo云)|[falvorn.sogoyunt.cc](https://falvorn.sogoyunt.cc/#/register?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
 |[传送门](#传送门)|[csmfby.com](https://www.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)| 无 |3元 88GB/月|✔|[TG](https://t.me/dankewed1)|[前往](/blog/danke/)|
 |[星岛梦](#星岛梦)|[ermaov1.xdmvipaff.cc](https://ermaov1.xdmvipaff.cc/#/?code=O9Q9H6VY)| 无 |16元 100G/月|✔|[TG](https://t.me/XDM6666666)|[前往](/blog/星岛梦/)|
@@ -192,7 +193,27 @@ tags:
 
 这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
 
+
+### Sogo云
+
+Sogo云官网地址：[Sogo云官网](https://falvorn.sogoyunt.cc/#/register?code=yxneZJKR)
+
+最便宜的订阅为 20元 120GB/月(活动档)，常规月付从 25元 120GB/月起。
+有 一次性订阅。
+
+Sogo云目前主打自研客户端一键使用，同时支持通用订阅导入。作为新开业服务，更适合先小档验证高峰稳定性，再决定是否作为长期主力线路。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 |
+|----------|------|------|----------|
+| 基础版 | 25元/月 | 120GB/月 | 轻度用户 |
+| 优选版 | 50元/月 | 250GB/月 | 日常主力 |
+| 强化版 | 100元/月 | 500GB/月 | 中重度用户 |
+| 顶配版 | 200元/月 | 1000GB/月 | 高频用户 |
+| 一次性基础 | 100元 | 100GB | 短期备用 |
+
 ---
+
+### 传送门
 
 ### flybit
 
