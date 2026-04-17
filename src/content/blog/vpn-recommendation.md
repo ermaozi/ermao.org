@@ -113,7 +113,7 @@ tags:
 |名称|官网地址|试用|最便宜订阅|不限时|群|详情|
 |---|---|---|--|---|---|---|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|[前往](/blog/ssone/)|
-|[xxyun](#xxyun)|[xxyun.de](https://xxyun.de/XQiZqbSr.html)| 无 |9.99元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|[前往](/blog/xxyun/)|
+|[xxyun](#xxyun)|[xxyun.de](https://xxyun.at/?code=HOWnn58c)| 无 |9.99元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|[前往](/blog/xxyun/)|
 |[flybit](#flybit)|[goflybit.com](https://goflybit.com/#/register?code=7h1NCdM7)| 1天2G |12元 100G/月|✔|[TG](https://t.me/flybitvip)|[前往](/blog/flybit/)|
 |[cocoduck](#cocoduck)|[cocoduck.live](https://cocoduck.live/auth/register?code=25c8b515df)| 1天2G |15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|[前往](/blog/cocoduck/)|
 |[奈云](#奈云)|[aff.v2ny.mom](https://aff.v2ny.mom?path=register&code=FNAu1FWB)|无|10.6元 168G/月(年付)|✔|[TG](https://t.me/v2naiun)|[前往](/blog/奈云/)|
@@ -134,7 +134,7 @@ tags:
 |[传送门](#传送门)|[csmfby.com](https://www.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)| 无 |3元 88GB/月|✔|[TG](https://t.me/dankewed1)|[前往](/blog/danke/)|
 |[星岛梦](#星岛梦)|[ermaov1.xdmvipaff.cc](https://ermaov1.xdmvipaff.cc/#/?code=O9Q9H6VY)| 无 |16元 100G/月|✔|[TG](https://t.me/XDM6666666)|[前往](/blog/星岛梦/)|
-|[uuone](#uuone)|[uuone.de](https://uuone.de/ermao.html)| 无 |12元 150G/月|✔|暂无|[前往](/blog/uuone/)|
+|[uuone](#uuone)|[uuone.de](https://uuone.at/?code=AjqYdZlJ)| 无 |12元 150G/月|✔|暂无|[前往](/blog/uuone/)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|[前往](/blog/龙猫云/)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌|[TG](https://t.me/dageyun)|[前往](/blog/大哥云/)|
 |[网际快车](#网际快车)|[wjkc.click](https://wjkc.click?c=USNCXQ)| 无 |6.8元 20GB(不限时)|✔|暂无|[前往](/blog/网际快车/)|
@@ -286,7 +286,7 @@ flybit官网地址：[goflybit.com](https://goflybit.com/#/register?code=7h1NCdM
 
 ### uuone
 
-官网地址：[uuone.de](https://uuone.de/ermao.html)
+官网地址：[uuone.de](https://uuone.at/?code=AjqYdZlJ)
 
 最便宜的订阅有12元 150G/月。
 
@@ -294,12 +294,12 @@ flybit官网地址：[goflybit.com](https://goflybit.com/#/register?code=7h1NCdM
 
 | 套餐名称 | 原价 | **券后价** | 流量 | 特性 | 购买 |
 |----------|------|------------|------|------|------|
-| **Lite套餐** | ¥12/月 | **¥10.8** | 150G/月 | 入门首选，BGP中转 | [👉抢购](https://uuone.de/ermao.html) |
-| **Pro套餐** 🌟 | ¥23/月 | **¥20.7** | 300G/月 | 进阶推荐，流量充裕 | [👉抢购](https://uuone.de/ermao.html) |
-| **Max套餐** | ¥45/月 | **¥40.5** | 800G/月 | 超大流量，4K无忧 | [👉抢购](https://uuone.de/ermao.html) |
-| **永久套餐** | ¥80 | **¥72** | 450G | 一次性流量，不过期 | [👉抢购](https://uuone.de/ermao.html) |
+| **Lite套餐** | ¥12/月 | **¥10.8** | 150G/月 | 入门首选，BGP中转 | [👉抢购](https://uuone.at/?code=AjqYdZlJ) |
+| **Pro套餐** 🌟 | ¥23/月 | **¥20.7** | 300G/月 | 进阶推荐，流量充裕 | [👉抢购](https://uuone.at/?code=AjqYdZlJ) |
+| **Max套餐** | ¥45/月 | **¥40.5** | 800G/月 | 超大流量，4K无忧 | [👉抢购](https://uuone.at/?code=AjqYdZlJ) |
+| **永久套餐** | ¥80 | **¥72** | 450G | 一次性流量，不过期 | [👉抢购](https://uuone.at/?code=AjqYdZlJ) |
 
-[uuone](https://uuone.de/ermao.html) 是一家专注于提供 **高性价比** 出海加速服务的 **翻墙机场**。其核心优势在于提供 **BGP三网优化** 中转线路，确保超高性价比的同时，拥有高质量的节点表现。
+[uuone](https://uuone.at/?code=AjqYdZlJ) 是一家专注于提供 **高性价比** 出海加速服务的 **翻墙机场**。其核心优势在于提供 **BGP三网优化** 中转线路，确保超高性价比的同时，拥有高质量的节点表现。
 
 ---
 
@@ -576,7 +576,7 @@ CAC官网地址：[www.cac.mom](https://www.cac.mom/#/register?code=kYL5chvN)
 
 ### xxyun
 
-xxyun官网地址：[https://xxyun.de](https://xxyun.de/XQiZqbSr.html)
+xxyun官网地址：[https://xxyun.de](https://xxyun.at/?code=HOWnn58c)
 
 最便宜订阅：9.99元 100G/月。
 
@@ -594,11 +594,11 @@ xxyun加速特性如下：
 
 | 套餐 | 价格 | 流量 | 购买地址 |
 | --- | --- | --- | --- |
-| 初级套餐 | 9.99元/每月 | 100G/月 | [点击购买](https://xxyun.de/XQiZqbSr.html) |
-| 中级套餐 | 19.9元/每月 | 300G/月 | [点击购买](https://xxyun.de/XQiZqbSr.html) |
-| 高级套餐 | 39.9元/每月 | 1000G/月 | [点击购买](https://xxyun.de/XQiZqbSr.html) |
-| 500G[不限时] | 66.66元/一次性 | 500G/不限时 | [点击购买](https://xxyun.de/XQiZqbSr.html) |
-| 2888G[不限时] | 199元/一次性 | 2888G/不限时 | [点击购买](https://xxyun.de/XQiZqbSr.html) |
+| 初级套餐 | 9.99元/每月 | 100G/月 | [点击购买](https://xxyun.at/?code=HOWnn58c) |
+| 中级套餐 | 19.9元/每月 | 300G/月 | [点击购买](https://xxyun.at/?code=HOWnn58c) |
+| 高级套餐 | 39.9元/每月 | 1000G/月 | [点击购买](https://xxyun.at/?code=HOWnn58c) |
+| 500G[不限时] | 66.66元/一次性 | 500G/不限时 | [点击购买](https://xxyun.at/?code=HOWnn58c) |
+| 2888G[不限时] | 199元/一次性 | 2888G/不限时 | [点击购买](https://xxyun.at/?code=HOWnn58c) |
 
 ---
 
