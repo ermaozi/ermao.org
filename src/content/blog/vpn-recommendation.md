@@ -121,7 +121,7 @@ tags:
 |[迅达](#迅达)|[sulianproxy.com](https://sulianproxy.com/register?code=bXIAotbG)| 免费试用 |15元 120G/月|❌|[TG](https://t.me/xundaroot)|[前往](/blog/迅达/)|
 |[全球云](#全球云)|[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)| 无 |20元 120G/月|✔|[TG](https://t.me/quanqiuyun001)|[前往](/blog/全球云/)|
 |[阿达西](#阿达西)|[adaxi.net](https://adaxi.net/?r=68917)| 无 |3元 20G/月|✔|暂无|[前往](/blog/阿达西/)|
-|[XSUS](#xsus)|[xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|[前往](/blog/xsus/)|
+|[XSUS](#xsus)|[xs-us.com](https://xs-us.com/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|[前往](/blog/xsus/)|
 |[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/QkQotDCu.html)| 1G |15元 150G/月|❌|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|[前往](/blog/ccyz/)|
 |[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)| 无 |6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|[前往](/blog/唯兔云/)|
 |[极连云](#极连云)|[ermaozi01.jlcvipaff.cc](https://ermaozi01.jlcvipaff.cc/#/register?code=GHDiZb1m)| 无 |8元 60G/月|✔|[TG](https://t.me/JLYCloud)|[前往](/blog/极连云/)|
@@ -129,6 +129,7 @@ tags:
 |[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)| 无 |8.8元 300GB/月|❌|暂无|[前往](/blog/梦想云/)|
 |[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)| 无 |8.25元 59G/月|❌|暂无|[前往](/blog/瞬云/)|
 |[二猫云](#二猫云)|[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)| 无 |20元 100GB/月|❌|暂无|[前往](/blog/ermaoyun/)|
+|[寰宇云](#寰宇云)|[huanyuyunvip.com](https://huanyuyunvip.com/#/register?code=W82s7u2a)| - |18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|[前往](/blog/huanyuyun/)|
 |[Sogo云](#sogo云)|[falvorn.sogoyunt.cc](https://falvorn.sogoyunt.cc/#/register?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
 |[传送门](#传送门)|[csmfby.com](https://www.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)| 无 |3元 88GB/月|✔|[TG](https://t.me/dankewed1)|[前往](/blog/danke/)|
@@ -209,6 +210,25 @@ tags:
 | 橘猫畅玩版 | 40元/月 | 200GB/月 | 日常主力候选 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
 | 牛奶猫尊享版 | 80元/月 | 400GB/月 | 中重度用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
 | 黑猫无限版 | 160元/月 | 800GB/月 | 高频多设备用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+
+
+### 寰宇云
+
+寰宇云官网地址：[huanyuyunvip.com](https://huanyuyunvip.com/#/register?code=W82s7u2a)
+
+最便宜的订阅有18元 150GB/月，活动后约 14元。
+有 一次性订阅。
+
+寰宇云更像一条适合谨慎观察的新站，而不是可以直接长周期上车的成熟机场。它的看点在于月付、年付小包和不限时流量包并存，真正需要重点观察的则是晚高峰稳定性和无退款条件下的试错成本。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
+|----------|------|------|----------|----------|
+| 限定年付小包 | 89元/年 | 60GB/月 | 轻度小流量用户、备用线用户 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
+| 卫星 | 18元/月（折后约14元） | 150GB/月 | 低成本试错用户 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
+| 行星 | 34元/月 | 300GB/月 | 日常视频与 AI 工具用户 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
+| 恒星 | 60元/月 | 600GB/月 | 高频多设备用户 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
+| 巨量不限时 | 168元/一次性 | 1000GB 总量 | 低频长期备用 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
+| 海量不限时 | 398元/一次性 | 3000GB 总量 | 中长期非连续高频用户 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
 
 
 ### Sogo云
@@ -922,7 +942,7 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)
 
 ### XSUS
 
-XSUS官网地址：[xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)
+XSUS官网地址：[xs-us.com](https://xs-us.com/register?code=xJFcT1Dw)
 
 邀请码：xJFcT1Dw
 
