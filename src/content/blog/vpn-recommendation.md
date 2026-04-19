@@ -131,7 +131,7 @@ tags:
 |[二猫云](#二猫云)|[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)| 无 |20元 100GB/月|❌|暂无|[前往](/blog/ermaoyun/)|
 |[寰宇云](#寰宇云)|[huanyuyunvip.com](https://huanyuyunvip.com/#/register?code=W82s7u2a)| - |18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|[前往](/blog/huanyuyun/)|
 |[Sogo云](#sogo云)|[falvorn.sogoyunt.cc](https://falvorn.sogoyunt.cc/#/register?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
-|[传送门](#传送门)|[csmfby.com](https://www.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
+|[传送门](#传送门)|[csmfby.com](https://aa.csmfby.com/?code=b9eUUu00)| 无 |99元 59G/月(年付)|❌|暂无|[前往](/blog/传送门/)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)| 无 |3元 88GB/月|✔|[TG](https://t.me/dankewed1)|[前往](/blog/danke/)|
 |[星岛梦](#星岛梦)|[ermaov1.xdmvipaff.cc](https://ermaov1.xdmvipaff.cc/#/?code=O9Q9H6VY)| 无 |16元 100G/月|✔|[TG](https://t.me/XDM6666666)|[前往](/blog/星岛梦/)|
 |[uuone](#uuone)|[uuone.de](https://uuone.at/?code=AjqYdZlJ)| 无 |12元 150G/月|✔|暂无|[前往](/blog/uuone/)|
