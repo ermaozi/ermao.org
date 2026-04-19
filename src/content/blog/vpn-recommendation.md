@@ -146,7 +146,7 @@ tags:
 |[99吧](#_99bar)|[99vpn.bar](https://99vpn.bar/#/register?code=qzpkbzHF)| 1天 1G |12.9元 99G/月|✔|[TG](https://t.me/jiujiuchat)|[前往](/blog/99吧/)|
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|[前往](/blog/青云梯/)|
 |[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)| 无 |11元 50G/月|✔|[TG](https://t.me/superbiu888)|[前往](/blog/superbiu/)|
-|[随便云](#随便云)|[suibian.cloud](https://suibian.cloud/register?code=YZxHwCws)| 无 |10元 68G/月|✔|[TG](https://t.me/suibianvip)|[前往](/blog/随便云/)|
+|[随便云](#随便云)|[wcnm.one](https://wcnm.one/register?code=YZxHwCws)| 无 |10元 68G/月|✔|[TG](https://t.me/suibianvip)|[前往](/blog/随便云/)|
 |[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)| 无 |10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|[前往](/blog/灯塔cloud/)|
 |[CAC](#cac)|[www.cac.mom](https://www.cac.mom/#/register?code=kYL5chvN)| 无 |7.9元 168G/月|❌|[TG](https://t.me/CAC_Apex)|[前往](/blog/cac/)|
 |[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元60g/月(季付)|❌|[TG](https://t.me/TNTCloud2)|[前往](/blog/tnt/)|
@@ -380,7 +380,7 @@ CocoDuck机场官网地址：[https://cocoduck.live](https://cocoduck.live/auth/
 
 ### 随便云
 
-随便云官网地址：[suibian.cloud](https://suibian.cloud/register?code=YZxHwCws)
+随便云官网地址：[wcnm.one](https://wcnm.one/register?code=YZxHwCws)
 
 试用：无
 
@@ -388,12 +388,12 @@ CocoDuck机场官网地址：[https://cocoduck.live](https://cocoduck.live/auth/
 
 | 套餐名称 | 价格 | 流量 | 速率限制 | 设备数 | 特性 | 购买 |
 |----------|------|------|----------|--------|------|------|
-| **轻量Lite套餐** | ¥10.00/月 | 68 GB | 500 Mbps | 3 台 | 入门首选，高速稳定 | [👉抢购](https://suibian.cloud/register?code=YZxHwCws) |
-| **进阶Pro套餐** | ¥20.00/月 | 168 GB | 1000 Mbps | 5 台 | 进阶推荐，千兆速率 | [👉抢购](https://suibian.cloud/register?code=YZxHwCws) |
-| **终极Ultimate** | ¥40.00/月 | 388 GB | 2000 Mbps | 8 台 | 大流量，2G超高速 | [👉抢购](https://suibian.cloud/register?code=YZxHwCws) |
-| **团队Team套餐** | ¥88.00/月 | 1000 GB | 5000 Mbps | 15 台 | 团队共享，极致速率 | [👉抢购](https://suibian.cloud/register?code=YZxHwCws) |
-| **100G不限时** | ¥28.00/次 | 100 GB | 1000 Mbps | 3 台 | 流量包，永久有效 | [👉抢购](https://suibian.cloud/register?code=YZxHwCws) |
-| **288G不限时** | ¥68.00/次 | 288 GB | 不限制 | 5 台 | 大包流量，速率无忧 | [👉抢购](https://suibian.cloud/register?code=YZxHwCws) |
+| **轻量Lite套餐** | ¥10.00/月 | 68 GB | 500 Mbps | 3 台 | 入门首选，高速稳定 | [👉抢购](https://wcnm.one/register?code=YZxHwCws) |
+| **进阶Pro套餐** | ¥20.00/月 | 168 GB | 1000 Mbps | 5 台 | 进阶推荐，千兆速率 | [👉抢购](https://wcnm.one/register?code=YZxHwCws) |
+| **终极Ultimate** | ¥40.00/月 | 388 GB | 2000 Mbps | 8 台 | 大流量，2G超高速 | [👉抢购](https://wcnm.one/register?code=YZxHwCws) |
+| **团队Team套餐** | ¥88.00/月 | 1000 GB | 5000 Mbps | 15 台 | 团队共享，极致速率 | [👉抢购](https://wcnm.one/register?code=YZxHwCws) |
+| **100G不限时** | ¥28.00/次 | 100 GB | 1000 Mbps | 3 台 | 流量包，永久有效 | [👉抢购](https://wcnm.one/register?code=YZxHwCws) |
+| **288G不限时** | ¥68.00/次 | 288 GB | 不限制 | 5 台 | 大包流量，速率无忧 | [👉抢购](https://wcnm.one/register?code=YZxHwCws) |
 
 ---
 
