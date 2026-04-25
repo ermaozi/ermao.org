@@ -1,0 +1,89 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getImage } from "astro:assets";
+import Content2 from "../components/widgets/Content2.astro";
+import Values from "../components/widgets/Values.astro";
+import aboutImage from "../assets/images/about-office.webp";
+
+const metadata = {
+    title: "关于我们",
+    description:
+        "二毛专注机场推荐与评测，提供稳定性、速度、价格与风险预警等实测信息，帮助你更快找到适合自己的机场服务。",
+    keywords: ["关于我们", "机场推荐", "机场评测", "科学上网", "翻墙"],
+};
+
+const values = [
+    {
+        title: "真实评测",
+        description:
+            "每篇推荐都基于实际使用体验，重点关注晚高峰稳定性、延迟、流媒体与 AI 解锁表现。",
+    },
+    {
+        title: "持续更新",
+        description:
+            "站点长期维护，定期更新套餐价格、优惠信息与节点质量变化，减少过时信息误导。",
+    },
+    {
+        title: "风险预警",
+        description:
+            "关注机场跑路、频繁掉线、服务异常等信号，帮助用户提前规避高风险服务商。",
+    },
+    {
+        title: "选择建议",
+        description:
+            "按预算、流量、设备数量与使用场景给出清晰建议，让新手也能快速做出合适选择。",
+    },
+    {
+        title: "教程友好",
+        description:
+            "提供 Clash、Shadowrocket、Windows、Android 等常见客户端的入门与配置指引。",
+    },
+    {
+        title: "用户优先",
+        description:
+            "以可用性与长期体验为核心，不盲目追求噱头参数，优先推荐稳定、透明、可持续的服务。",
+    },
+];
+
+const optimizedImage = await getImage({
+    src: aboutImage,
+    format: "webp",
+});
+---
+
+<BaseLayout {metadata}>
+    <link slot="head" rel="preload" href={optimizedImage.src} as="image" />
+    <Content2
+        title="我们为什么做这个站"
+        description={[
+            "二毛希望把‘机场推荐’这件事做得更透明：不仅告诉你哪个好，还会说明为什么好、适合谁、有哪些潜在风险。",
+            "我们重点覆盖价格、线路质量、稳定性、解锁能力和客服响应等维度，并通过持续更新，帮助你在变化很快的环境里减少试错成本。",
+        ]}
+        tagline="关于我们"
+        image={aboutImage}
+        imageAlt="机场评测与推荐"
+        actions={[
+            {
+                text: "联系站长",
+                href: "https://t.me/ermaozi01",
+                variant: "primary",
+                icon: "lucide:mail",
+                target: "_blank",
+                rel: "noopener noreferrer",
+            },
+            {
+                text: "查看机场推荐",
+                href: "/blog",
+                variant: "secondary",
+                icon: "lucide:arrow-right",
+            },
+        ]}
+    />
+    <Values
+        items={values}
+        columns={3}
+        tagline="我们的原则"
+        title="我们如何做推荐"
+        subtitle="以实测和长期可用性为核心，尽量给出可验证、可执行的选择参考"
+    />
+</BaseLayout>

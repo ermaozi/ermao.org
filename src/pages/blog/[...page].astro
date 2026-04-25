@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import BlogListSection from "../../components/blog/BlogListSection.astro";
+import type { GetStaticPathsOptions } from "astro";
+import { organizeBlogPosts } from "../../utils/blog";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const blogEntries = await getCollection("blog");
+    const { featuredPost, regularPosts } = organizeBlogPosts(blogEntries);
+    const paginatedPosts = regularPosts;
+
+    return paginate(paginatedPosts, { pageSize: 6, props: { featuredPost } });
+}
+
+const { page, featuredPost } = Astro.props;
+const blog = page.data;
+const pageNumber = page.currentPage;
+const shouldShowFeatured = pageNumber === 1 && !!featuredPost;
+const normalPosts = blog;
+
+const metadata = {
+    title: pageNumber > 1 ? `博客 - 第 ${pageNumber} 页` : "博客",
+    description:
+        "二毛翻墙机场严选博客，持续更新机场推荐、评测与使用教程，帮助你快速选择稳定高速节点。",
+    keywords: ["机场推荐", "翻墙", "VPN", "节点评测", "科学上网"],
+    canonical: Astro.url.href,
+};
+---
+
+<BaseLayout metadata={metadata}>
+    <BlogListSection
+        posts={normalPosts}
+        featuredPost={featuredPost}
+        showFeatured={shouldShowFeatured}
+        page={page}
+    />
+</BaseLayout>
