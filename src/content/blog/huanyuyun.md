@@ -11,9 +11,9 @@ tags:
   - '机场评测'
 ---
 
-[寰宇云](https://huanyuyunvip.com/#/register?code=W82s7u2a)的核心判断不在于它是不是已经成熟，而在于它给了一个相对低门槛的观察窗口。18元 150GB 的月付、89元年付小包和一次性流量包同时存在，让它适合谨慎试错；但运营时间只有约 1 周，现阶段更适合观察而不是直接重仓。
+[寰宇云](https://huanyuyunbest.com/#/register?code=W82s7u2a)的核心判断不在于它是不是已经成熟，而在于它给了一个相对低门槛的观察窗口。18元 150GB 的月付、89元年付小包和一次性流量包同时存在，让它适合谨慎试错；但运营时间只有约 1 周，现阶段更适合观察而不是直接重仓。
 
-官网地址：[huanyuyunvip.com](https://huanyuyunvip.com/#/register?code=W82s7u2a)
+官网地址：[huanyuyunbest.com](https://huanyuyunbest.com/#/register?code=W82s7u2a)
 
 ## 评估维度
 
@@ -36,12 +36,12 @@ tags:
 
 | 套餐层级 | 参考价格 | 套餐内容 | 适配场景 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 年付小包 | 89元/年 | 60GB/月 | 低频备用或轻度日常 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
-| 入门月付 | 18元/月 | 150GB/月 | 低成本试错 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
-| 主力月付 | 34元/月 | 300GB/月 | 日常视频与 AI 工具 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
-| 高频月付 | 60元/月 | 600GB/月 | 多设备或高流量 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
-| 一次性流量包 | 168元 | 1000GB 总量 | 低频长期备用 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
-| 大流量一次性 | 398元 | 3000GB 总量 | 中长期非连续使用 | [立即购买](https://huanyuyunvip.com/#/register?code=W82s7u2a) |
+| 年付小包 | 89元/年 | 60GB/月 | 低频备用或轻度日常 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 入门月付 | 18元/月 | 150GB/月 | 低成本试错 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 主力月付 | 34元/月 | 300GB/月 | 日常视频与 AI 工具 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 高频月付 | 60元/月 | 600GB/月 | 多设备或高流量 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 一次性流量包 | 168元 | 1000GB 总量 | 低频长期备用 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 大流量一次性 | 398元 | 3000GB 总量 | 中长期非连续使用 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
 
 ## 购买建议
 
