@@ -2,6 +2,7 @@
 title: '2026 二猫云机场评测：20元100GB起，专线新站值不值得买'
 description: '二猫云主打 IPLC/IEPL 专线与自研客户端，最低20元100GB/月。本文从评估维度、套餐定位、购买建议三方面做客观分析。'
 pubDate: '2026-04-14'
+image: 'https://image.ermao.net/images/blog/ermaoyun/20260414_104113-5bbd8b.png'
 tags:
   - '科学上网'
   - '机场推荐'

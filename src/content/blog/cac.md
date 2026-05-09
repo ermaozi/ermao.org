@@ -2,6 +2,7 @@
 title: '2026 CAC机场评测：7.9元168G起，便宜应急线是否够用'
 description: 'CAC提供7.9元168GB和15元398GB两档套餐，均支持5台设备同时接入。本文按评估维度、套餐定位和购买建议判断它是否适合作为低成本应急机场。'
 pubDate: '2026-04-03'
+image: 'https://image.ermao.net/images/article/4uxesz79/image.png'
 tags:
   - '科学上网'
   - '机场推荐'

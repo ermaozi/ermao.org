@@ -2,6 +2,7 @@
 title: '2026 xxai机场评测：16.9元100G起，AI工具与低延迟场景表现如何'
 description: 'xxai主打全IEPL专线、低延迟游戏与直播专线，最低16.9元100GB/月。本文按评估维度、套餐定位和购买建议整理当前已确认信息。'
 pubDate: '2026-04-03'
+image: 'https://image.ermao.net/images/article/bls8yo25/image.png'
 tags:
   - '科学上网'
   - '机场推荐'

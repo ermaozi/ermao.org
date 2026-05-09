@@ -2,6 +2,7 @@
 title: '2026 Sogo云机场评测：新开业自研客户端路线是否值得选'
 description: 'Sogo云主打自研客户端一键使用，支持通用订阅与一次性流量包，活动档20元120GB/月。本文从评估维度、套餐定位、购买建议三方面做客观判断。'
 pubDate: '2026-04-14'
+image: 'https://image.ermao.net/images/blog/sogo云/20260414_090807-edf50c.png'
 tags:
   - '科学上网'
   - '机场推荐'

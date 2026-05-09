@@ -2,7 +2,7 @@
 title: '2026 Danke机场评测：3元试用档、不限时流量包与年费方案怎么选'
 description: 'Danke提供3元体验、月付500GB/1000GB、一次性不限时流量与年费6TB方案。本文采用“成本模型 + 购买顺序 + 风险提示”结构，给出更实用的选购建议。'
 pubDate: '2026-04-03'
-image: 'https://image.ermao.net/images/posts/vpn/20260315_110648-5171d6.png'
+image: 'https://image.ermao.net/images/blog/danke/20260403_165913-188225.png'
 tags:
   - '科学上网'
   - '机场推荐'
