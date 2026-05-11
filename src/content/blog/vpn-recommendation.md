@@ -126,9 +126,9 @@ tags:
 |[Runway](#runway)|[runwayhz.com](https://www.runwayhz.com/#/register?code=RiIDywqb)| 无 |9.9元 100G/月|✔|[TG](https://t.me/runwayhzop)|[前往](/blog/runway/)|
 |[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)| 无 |6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|[前往](/blog/唯兔云/)|
 |[Edge-X](#edge-x)|[edge-x.net](https://edge-invite.com/#/register?code=LCH9laOs)| 无 |22.8元/月起|❌|[TG](https://t.me/EdgeX_Notice)|[前往](/blog/edge-x/)|
-| U1S1 | [secha7689.malaixiya1.cyou](https://secha7689.malaixiya1.cyou/#/?code=FC32x5Vs) | 20元/月 | IPLC/不限设备 | [前往评测](./机场推荐u1s1.md) |
+| U1S1 | [ermaozi01.vipaff.cc](https://ermaozi01.vipaff.cc/#/?code=FC32x5Vs) | 20元/月 | IPLC/不限设备 | [前往评测](./机场推荐u1s1.md) |
 |[一翻云](#一翻云)|[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)| 无 |30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|[前往](/blog/一翻云/)|
-|[Sogo云](#sogo云)|[01.sogoyunaff.cc](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
+|[Sogo云](#sogo云)|[01.sogoyunaff.cc](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
 |[二猫云](#二猫云)|[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)| 无 |20元 100GB/月|❌|暂无|[前往](/blog/ermaoyun/)|
 |[寰宇云](#寰宇云)|[huanyuyunbest.com](https://huanyuyunbest.com/#/register?code=W82s7u2a)| - |18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|[前往](/blog/huanyuyun/)|
 |[冲上云霄](#冲上云霄)|[cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 80G/30天|✔|[TG](https://t.me/vpnpn123)|[前往](/blog/冲上云霄/)|
@@ -269,7 +269,7 @@ Edge-X 以 IEPL 专线为主，配合直连优化节点，核心优势在于倍�
 
 ### Sogo云
 
-Sogo云官网地址：[Sogo云官网](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)
+Sogo云官网地址：[Sogo云官网](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)
 
 最便宜的订阅为 20元 120GB/月(活动档)，常规月付从 25元 120GB/月起。
 有 一次性订阅。
