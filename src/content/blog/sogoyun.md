@@ -13,7 +13,7 @@ tags:
 
 [Sogo云](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)的卖点不是单纯低价，而是把自研客户端上手效率和通用订阅兼容性放在同一产品路径里。
 
-官网地址：[01.sogoyunaff.cc](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)
+官网地址：[01.sogoyunaff.cc](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)
 
 ## 评估维度
 
