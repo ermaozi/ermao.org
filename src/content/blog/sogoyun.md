@@ -11,7 +11,7 @@ tags:
   - '机场评测'
 ---
 
-[Sogo云](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)的卖点不是单纯低价，而是把自研客户端上手效率和通用订阅兼容性放在同一产品路径里。
+[Sogo云](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)的卖点不是单纯低价，而是把自研客户端上手效率和通用订阅兼容性放在同一产品路径里。
 
 官网地址：[01.sogoyunaff.cc](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)
 
@@ -36,10 +36,10 @@ tags:
 
 | 套餐层级 | 参考价格 | 套餐内容 | 适配场景 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 入门月付 | 20-25元/月 | 120GB/月 | 低成本试错 | [立即购买](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR) |
-| 主力月付 | 50-100元/月 | 250GB-500GB/月 | 日常视频与AI工具 | [立即购买](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR) |
-| 高流量月付 | 200元/月 | 1000GB/月 | 高频与多设备 | [立即购买](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR) |
-| 一次性流量包 | 100-800元 | 100GB-1000GB | 阶段性补量/备用 | [立即购买](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR) |
+| 入门月付 | 20-25元/月 | 120GB/月 | 低成本试错 | [立即购买](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR) |
+| 主力月付 | 50-100元/月 | 250GB-500GB/月 | 日常视频与AI工具 | [立即购买](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR) |
+| 高流量月付 | 200元/月 | 1000GB/月 | 高频与多设备 | [立即购买](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR) |
+| 一次性流量包 | 100-800元 | 100GB-1000GB | 阶段性补量/备用 | [立即购买](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR) |
 
 ## 购买建议
 
