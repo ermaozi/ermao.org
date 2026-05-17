@@ -11,9 +11,9 @@ tags:
   - 'IPLC'
 ---
 
-[二猫云](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)是新开业的专线机场，核心卖点是 IPLC/IEPL 线路与低门槛月付。
+[二猫云](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A)是新开业的专线机场，核心卖点是 IPLC/IEPL 线路与低门槛月付。
 
-官网地址：[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)
+官网地址：[v01.2maoyunaff.cc](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A)
 
 ## 评估维度
 
@@ -36,10 +36,10 @@ tags:
 
 | 套餐层级 | 价格 | 流量 | 推荐定位 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 白猫套餐 | 20元/月 | 100GB/月 | 首次试用、备用线路 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
-| 橘猫畅玩版 | 40元/月 | 200GB/月 | 日常主力候选 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
-| 牛奶猫尊享版 | 80元/月 | 400GB/月 | 中重度使用 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
-| 黑猫无限版 | 160元/月 | 800GB/月 | 高频多设备 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 白猫套餐 | 20元/月 | 100GB/月 | 首次试用、备用线路 | [立即购买](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A) |
+| 橘猫畅玩版 | 40元/月 | 200GB/月 | 日常主力候选 | [立即购买](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A) |
+| 牛奶猫尊享版 | 80元/月 | 400GB/月 | 中重度使用 | [立即购买](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A) |
+| 黑猫无限版 | 160元/月 | 800GB/月 | 高频多设备 | [立即购买](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A) |
 
 ## 购买建议
 
