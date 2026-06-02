@@ -12,9 +12,9 @@ tags:
   - '机场评测'
 ---
 
-[Danke](https://2iipd.dklineo.top/#/register?code=a0zksG3J)的核心不是单一高配，而是提供了多种成本形态，适合“先小额验证，再按场景升级”的购买方式。
+[Danke](https://www.dankewed.com/#/register?code=a0zksG3J)的核心不是单一高配，而是提供了多种成本形态，适合“先小额验证，再按场景升级”的购买方式。
 
-官网地址：[https://2iipd.dklineo.top/#/register?code=a0zksG3J](https://2iipd.dklineo.top/#/register?code=a0zksG3J)
+官网地址：[https://www.dankewed.com/#/register?code=a0zksG3J](https://www.dankewed.com/#/register?code=a0zksG3J)
 
 ## 成本模型（先看这个）
 
@@ -29,12 +29,12 @@ tags:
 
 | 套餐名称 | 价格 | 流量 | 场景 | 购买 |
 |---|---|---|---|---|
-| 体验套餐 | ¥3.00/月 | 88GB/30天 | 新用户试水 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| Mini | ¥9.90/月 | 500GB/月 | 资料检索、视频、AI工具中度使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| Pro | ¥18.00/月 | 1000GB/月 | 多设备与重度使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 年费6T特惠 | ¥68/年 | 每月500GB（全年6TB） | 长期成本控制 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 不限时500GB | ¥49.90/一次性 | 500GB总量 | 备用流量 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 不限时1000GB | ¥89.90/一次性 | 1000GB总量 | 低频大流量备用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| 体验套餐 | ¥3.00/月 | 88GB/30天 | 新用户试水 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| Mini | ¥9.90/月 | 500GB/月 | 资料检索、视频、AI工具中度使用 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| Pro | ¥18.00/月 | 1000GB/月 | 多设备与重度使用 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 年费6T特惠 | ¥68/年 | 每月500GB（全年6TB） | 长期成本控制 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 不限时500GB | ¥49.90/一次性 | 500GB总量 | 备用流量 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 不限时1000GB | ¥89.90/一次性 | 1000GB总量 | 低频大流量备用 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
 
 ## 推荐购买顺序
 
