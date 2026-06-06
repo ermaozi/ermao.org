@@ -12,9 +12,9 @@ tags:
   - '机场评测'
 ---
 
-[速界](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS)这条线的特点是套餐周期丰富，月付、季付、半年、年付到三年付都有，适合按预算逐步升级。
+[速界](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx)这条线的特点是套餐周期丰富，月付、季付、半年、年付到三年付都有，适合按预算逐步升级。
 
-官网地址：[speedworld.cc](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS)
+官网地址：[speedworld.cc](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx)
 
 ## 评估维度
 
@@ -40,11 +40,11 @@ tags:
 
 | 套餐档位 | 价格锚点 | 适配场景 | 购买链接 |
 | --- | --- | --- | --- |
-| 极速版 | 25元/月 | 入门与轻度日常 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS) |
-| 超速版 | 50元/月 | 中度视频与常规办公 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS) |
-| 光速版 | 100元/月 | 高频使用与多设备场景 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS) |
-| 跃迁版 | 200元/月 | 中重度流量需求 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS) |
-| 年付体验包 | 88元/年 | 预算敏感的低门槛试用 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=7rQfT6CS) |
+| 极速版 | 25元/月 | 入门与轻度日常 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx) |
+| 超速版 | 50元/月 | 中度视频与常规办公 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx) |
+| 光速版 | 100元/月 | 高频使用与多设备场景 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx) |
+| 跃迁版 | 200元/月 | 中重度流量需求 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx) |
+| 年付体验包 | 88元/年 | 预算敏感的低门槛试用 | [立即购买](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx) |
 
 ## 购买建议
 
