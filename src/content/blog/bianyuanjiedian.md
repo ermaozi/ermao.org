@@ -12,9 +12,9 @@ tags:
   - '机场评测'
 ---
 
-[边缘节点](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR)更像一条“先小额验证、再按使用量升级”的路线：有 108 元年付 45G 入门档，也有 25-200 元月付梯度。
+[边缘节点](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy)更像一条“先小额验证、再按使用量升级”的路线：有 108 元年付 45G 入门档，也有 25-200 元月付梯度。
 
-官网地址：[ermaozi.edgenovaaff.cc](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR)
+官网地址：[ermaozi.edgenovaaff.cc](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy)
 
 ## 评估维度
 
@@ -40,11 +40,11 @@ tags:
 
 | 套餐档位 | 价格锚点 | 适配场景 | 购买链接 |
 | --- | --- | --- | --- |
-| 年付入门档 | 108元/年付45G | 低成本试用与备用 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR) |
-| 标准套餐 | 25元/月 120G | 轻中度日常 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR) |
-| 进阶套餐 | 50元/月 250G | 中度工具和视频访问 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR) |
-| 高级套餐 | 100元/月 500G | 高频多设备场景 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR) |
-| 极限套餐 | 200元/月 1000G | 中重度流量需求 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=n5uSqGLR) |
+| 年付入门档 | 108元/年付45G | 低成本试用与备用 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy) |
+| 标准套餐 | 25元/月 120G | 轻中度日常 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy) |
+| 进阶套餐 | 50元/月 250G | 中度工具和视频访问 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy) |
+| 高级套餐 | 100元/月 500G | 高频多设备场景 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy) |
+| 极限套餐 | 200元/月 1000G | 中重度流量需求 | [立即购买](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy) |
 
 ## 购买建议
 
