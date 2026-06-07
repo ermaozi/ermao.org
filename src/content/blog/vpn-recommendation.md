@@ -163,7 +163,7 @@ tags:
 |[Aladdin](#aladdin)|[www.avatargpt.xyz/](https://short.thisgourl.xyz/#/register?code=tvLw0oMj)|无|30元 390G/半年|❌|暂无|[前往](/blog/aladdin/)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔|[TG](https://t.me/xxai_official)|[前往](/blog/xxai/)|
 |[一翻云](#一翻云)|[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)| 无 |30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|[前往](/blog/一翻云/)|
-|[Sogo云](#sogo云)|[01.sogoyunaff.cc](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
+|[Sogo云](#sogo云)|[01.sogoyunaff.cc](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)| - |20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|[前往](/blog/sogoyun/)|
 |[青云梯](#青云梯)|[ermaozi02.qytvipaff.cc](https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|[前往](/blog/青云梯/)|
 |[koodog](#koodog)|[koodog.com](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz)| 无 |5元 35G/月|❌|[TG](https://t.me/KooDogGroup)|[前往](/blog/koodog/)|
 |[99吧](#_99bar)|[99vpn.bar](https://99vpn.bar/#/register?code=qzpkbzHF)| 1天 1G |12.9元 99G/月|✔|[TG](https://t.me/jiujiuchat)|[前往](/blog/99吧/)|
@@ -307,7 +307,7 @@ Edge-X 以 IEPL 专线为主，配合直连优化节点，核心优势在于倍�
 
 ### Sogo云
 
-Sogo云官网地址：[Sogo云官网](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)
+Sogo云官网地址：[Sogo云官网](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)
 
 最便宜的订阅为 20元 120GB/月(活动档)，常规月付从 25元 120GB/月起。
 有 一次性订阅。
