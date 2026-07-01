@@ -1,51 +1,34 @@
 ---
-title: '✈️机场推荐【OKANC】 - 新机场、大流量、高质量'
-description: 'okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术积累以及信誉保障，可以放心购买。节点主打高质量，速度快，延迟低。只是价格偏贵，适合电商、游戏等高需求用户。 okanc机场官网地址：okanc.com'
+title: '⚠️【风险预警】OKAC/OKANC机场跑路预警，停止购买续费'
+description: 'OKAC/OKANC出现线路持续异常、官网不可访问、客服与管理响应中断等问题；OKAC与奈云、隐云、CAC同属一个运营主体，且奈云已确认跑路。'
 pubDate: '2025-06-01'
-image: "https://image.ermao.net/images/article/giwzl7sq/image-1.png"
+updatedDate: '2026-07-01'
+image: 'https://image.ermao.net/images/scamvpn/okac/20260701_112658-d57a4f.png'
 tags:
   - '科学上网'
-  - 'VPN'
-  - '机场'
-  - '推荐'
-  - '评测'
-  - 'okanc机场'
-  - 'okanc机场官网地址'
+  - '机场跑路'
+  - 'OKAC'
+  - 'OKANC'
+  - '跑路预警'
 ---
 
-okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术积累以及信誉保障，可以放心购买。节点主打高质量，速度快，延迟低。只是价格偏贵，适合电商、游戏等高需求用户。
+截至2026年07月01日，OKAC/OKANC 已纳入跑路预警观察，不再建议新购或续费。
 
-okanc机场官网地址：[okanc.com](https://www.okanc.com/#/register?code=spBqEcUn)
+## 最新风险提示
 
+OKAC/OKANC 被持续反馈出现线路异常、官网不可访问、客服与管理响应中断等问题。OKAC 与奈云、隐云、CAC 属于同一运营主体，而奈云已确认跑路，因此 OKAC 的风险需要合并观察。
 
-## OKANC机场官网地址
+查看详情：[OKAC/OKANC机场跑路预警](/blog/scamvpn/机场跑路okac/)
 
-[okanc.com](https://www.okanc.com/#/register?code=spBqEcUn)
+## 原官网状态
 
-## OKANC机场简介
+原 OKAC/OKANC 官网：~~okanc.com~~
 
-[OKANC机场](https://www.okanc.com/#/register?code=spBqEcUn)与奈云同宗同源，有奈云的技术积累以及信誉保障，可以放心购买。[OKANC机场](https://www.okanc.com/#/register?code=spBqEcUn)节点主打高质量，速度快，延迟低。只是价格偏贵，适合电商、游戏等高需求用户。
+请不要继续购买套餐或充值。
 
-## OKANC机场价格
+## 已购用户建议
 
-|套餐|价格|流量|购买地址|
-|---|---|---|---|
-|Pro版|46元/月|328GB/月|[点击购买](https://www.okanc.com/#/register?code=spBqEcUn)|
-|Max版|50元/月|600GB/月|[点击购买](https://www.okanc.com/#/register?code=spBqEcUn)|
-|MAX+极致版|88元/月|1024GB/月|[点击购买](https://www.okanc.com/#/register?code=spBqEcUn)|
+- 停止续费和新增购买。
+- 保存支付凭证、套餐截图、订阅链接、工单和聊天记录。
+- 不要将奈云、隐云、CAC 作为备用方案。
 
-![OKANC机场价格](https://image.ermao.net/images/article/giwzl7sq/image-1.png)
-
-## OKANC机场测试
-
-![OKANC机场测试](https://image.ermao.net/images/article/giwzl7sq/image.png)
-
-## 机场汇总
-
-[https://www.ermao.net/posts/vpn](https://www.ermao.net/posts/vpn)
-
-## 客户端使用方法
-
-- 📱 [clash for Android](https://www.ermao.net/article/eh8f4n86/)
-- 🖥 [clash for Windows](https://www.ermao.net/article/0gematwc/)
-- 🍎 [clash for iOS](https://www.ermao.net/article/z747kgjd/)
