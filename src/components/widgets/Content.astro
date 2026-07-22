@@ -6,6 +6,7 @@ import type { ContentProps } from "../../types/types";
 
 const {
     title,
+    titleAs = "h2",
     subtitle,
     tagline,
     description = [],
@@ -30,6 +31,7 @@ const { container: containerClassProp = "", ...otherClasses } = classes;
     <div class="text-center">
         <Headline
             title={title}
+            titleAs={titleAs}
             subtitle={subtitle ||
                 (Array.isArray(description)
                     ? description.join(" ")

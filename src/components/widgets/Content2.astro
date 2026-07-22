@@ -8,6 +8,7 @@ import type { ContentProps } from "../../types/types";
 
 const {
     title,
+    titleAs = "h2",
     subtitle,
     tagline,
     description = [],
@@ -44,7 +45,7 @@ const { container: containerClassProp = "", ...otherClasses } = classes;
                         ? description.join(" ")
                         : description)}
                 tagline={tagline}
-                titleAs="h2"
+                titleAs={titleAs}
                 classes={{
                     container: "mb-8",
                     title: "text-4xl md:text-5xl font-bold tracking-tighter mb-4 font-heading",
