@@ -1,21 +1,28 @@
 ---
-title: '✈️机场推荐【TNT】 - 新机场、IPLC专线'
-description: 'TNT机场，近期新上季付轻量包，专门为用量小的用户设计，10元/月。新机场、IPLC专线。 TNT官网地址：https://ermaozi02.tntvipaff.cc'
+title: ✈️机场推荐【TNT】 - 新机场、IPLC专线
+description: >-
+  TNT机场，近期新上季付轻量包，专门为用量小的用户设计，10元/月。新机场、IPLC专线。
+  TNT官网地址：https://ermaozi02.tntvipaff.cc
 pubDate: '2025-03-02'
-image: "https://image.ermao.net/images/article/4uxesz79/image.png"
+updatedDate: '2026-07-22'
+author: ErMaozi
 tags:
-  - '科学上网'
-  - 'VPN'
-  - '机场'
-  - '推荐'
-  - '评测'
-  - '便宜机场'
-  - 'TNT'
+  - 科学上网
+  - VPN
+  - 机场
+  - 推荐
+  - 评测
+  - 便宜机场
+  - TNT
 ---
+> **内容基准与时效说明**：本页用于快速形成候选决策，事实、价格与风险状态同步自二毛主站。建议先看结论和风险，再用月付套餐在自己的网络环境复测。
+>
+> 主站原文：[https://www.ermao.net/article/4uxesz79/](https://www.ermao.net/article/4uxesz79/)
 
 TNT机场，近期新上季付轻量包，专门为用量小的用户设计，10元/月。新机场、IPLC专线。
 
 TNT官网地址：[https://ermaozi02.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)
+
 
 
 ## TNT官网地址
@@ -47,3 +54,10 @@ TNT官网地址：[https://ermaozi02.tntvipaff.cc](https://ermaozi02.tntvipaff.c
 - 📱 [clash for Android](https://www.ermao.net/article/eh8f4n86/)
 - 🖥 [clash for Windows](https://www.ermao.net/article/0gematwc/)
 - 🍎 [clash for iOS](https://www.ermao.net/article/z747kgjd/)
+
+## 信息来源、风险与更新说明
+
+- 本页事实基准来自[二毛主站原文](https://www.ermao.net/article/4uxesz79/)，同步时保留主站的更新时间与风险结论。
+- 服务商宣传不等于独立验证；“专线、解锁、不限速”等信息如无测试环境说明，应理解为官方标称或有限样本。
+- 价格、流量、节点和可用性可能随时变化。首次购买建议选择短周期或小流量档，并保留订单与客服记录。
+- 本页可能含推广参数，站点可能获得佣金，但这不构成稳定性或存续保证。

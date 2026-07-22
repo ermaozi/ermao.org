@@ -13,6 +13,7 @@ const blog = defineCollection({
     tags: z.array(z.string()).optional(),
     category: z.string().optional(),
     pinned: z.boolean().optional().default(false),
+    noindex: z.boolean().optional().default(false),
   }),
 });
 
