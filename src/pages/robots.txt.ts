@@ -5,6 +5,15 @@ const robotsTxt = `
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
 Sitemap: ${new URL("sitemap-index.xml", siteConfig.url).href}
 `.trim();
 

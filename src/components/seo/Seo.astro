@@ -50,6 +50,8 @@ const robotsContent = noindex
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="canonical" href={canonicalURL} />
+<link rel="alternate" type="application/rss+xml" title={`${siteConfig.name} RSS`} href="/rss.xml" />
+<link rel="alternate" type="text/plain" title="LLM 内容索引" href="/llms.txt" />
 <meta name="generator" content={Astro.generator} />
 
 <!-- Primary Meta Tags -->
@@ -69,6 +71,7 @@ const robotsContent = noindex
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={new URL(ogImageSrc, siteConfig.url)} />
+<meta property="og:image:alt" content={fullTitle} />
 <meta property="og:locale" content={siteConfig.locale} />
 <meta property="og:site_name" content={siteConfig.name} />
 {
@@ -104,9 +107,9 @@ const robotsContent = noindex
 <meta property="twitter:title" content={fullTitle} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(ogImageSrc, siteConfig.url)} />
-{siteConfig.twitter && <meta property="twitter:site" content={siteConfig.twitter} />}
+{siteConfig.twitter && <meta name="twitter:site" content={siteConfig.twitter} />}
 {
     siteConfig.twitter && (
-        <meta property="twitter:creator" content={siteConfig.twitter} />
+        <meta name="twitter:creator" content={siteConfig.twitter} />
     )
 }

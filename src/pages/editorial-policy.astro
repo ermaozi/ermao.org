@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const metadata = {
+  title: "评测方法与推广披露",
+  description: "说明二毛翻墙机场严选如何核验套餐、处理风险信息、标记推广关系与接受更正。",
+  canonical: Astro.url.href,
+};
+---
+
+<BaseLayout metadata={metadata}>
+  <article class="prose prose-lg dark:prose-invert mx-auto max-w-3xl px-4 py-16">
+    <h1>评测方法与推广披露</h1>
+    <p>本站的目标是提供可复核的候选清单，而不是承诺任何机场永久稳定。评测会核对结算页价格、流量周期、倍率、设备限制、售后入口与公开风险信息，并建议读者先试用、优先月付。</p>
+    <h2>信息如何处理</h2>
+    <ol>
+      <li>服务商宣传、作者体验和读者反馈分开表述。</li>
+      <li>无法独立验证的数据不写成确定事实。</li>
+      <li>出现官网失联、节点持续中断或客服长期无响应时，先发布风险预警；证据充分后再更新结论。</li>
+      <li>价格与线路随时可能变化，购买前必须复核结算页。</li>
+    </ol>
+    <h2>推广关系</h2>
+    <p>部分外链含邀请码或推广参数，本站可能因此获得佣金或账户奖励。佣金不应改变风险结论；发生重大异常的服务会被降级或移入风险记录。</p>
+    <h2>更正</h2>
+    <p>发现事实错误或过期信息，请邮件联系 <a href="mailto:admin@ermao.net">admin@ermao.net</a>，并附页面地址、错误位置与可核验来源。</p>
+  </article>
+</BaseLayout>

@@ -8,6 +8,7 @@ interface Props {
         description?: string;
         image?: string;
         pubDate?: Date;
+        modifiedDate?: Date;
         author?: string;
         url?: string;
         tags?: string[];
@@ -17,8 +18,7 @@ interface Props {
 const { type, data } = Astro.props;
 const sameAs = [
     siteConfig.socialLinks?.telegram,
-    siteConfig.socialLinks?.email,
-    siteConfig.twitter
+    siteConfig.socialLinks?.x,
 ].filter(Boolean);
 const imageUrl = data.image
     ? new URL(data.image, siteConfig.url).toString()
@@ -28,37 +28,43 @@ let schema = {};
 
 if (type === "WebSite") {
     schema = {
-        "@context": "https://ermao.org",
+        "@context": "https://schema.org",
         "@type": "WebSite",
         name: siteConfig.name,
         url: siteConfig.url,
         description: siteConfig.description,
-        author: {
+        publisher: {
             "@type": "Person",
+            "@id": `${siteConfig.url}/about#person`,
             name: siteConfig.author,
+            url: `${siteConfig.url}/about`,
         },
         sameAs,
     };
 } else if (type === "BlogPosting") {
     schema = {
-        "@context": "https://ermao.org",
+        "@context": "https://schema.org",
         "@type": "BlogPosting",
         headline: data.title,
         description: data.description,
         image: imageUrl,
         datePublished: data.pubDate,
+        dateModified: data.modifiedDate ?? data.pubDate,
         keywords: data.tags,
         author: {
             "@type": "Person",
+            "@id": `${siteConfig.url}/about#person`,
             name: data.author,
+            url: `${siteConfig.url}/about`,
         },
         mainEntityOfPage: {
             "@type": "WebPage",
             "@id": data.url,
         },
         publisher: {
-            "@type": "Organization",
-            name: siteConfig.name,
+            "@type": "Person",
+            "@id": `${siteConfig.url}/about#person`,
+            name: siteConfig.author,
             logo: {
                 "@type": "ImageObject",
                 // Placeholder, ideally should be a real logo URL
@@ -68,7 +74,7 @@ if (type === "WebSite") {
     };
 } else if (type === "CollectionPage") {
     schema = {
-        "@context": "https://ermao.org",
+        "@context": "https://schema.org",
         "@type": "CollectionPage",
         name: data.title,
         description: data.description,
