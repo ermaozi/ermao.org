@@ -29,9 +29,15 @@ export async function getStaticPaths() {
 
 const { tag, posts } = Astro.props;
 
+const tagTitle = tag === "uuone" ? "uuone 机场相关文章与评测" : `${tag} 标签`;
+const tagDescription =
+    tag === "uuone"
+        ? `查看 uuone 机场相关文章与评测，共 ${posts.length} 篇，了解套餐、线路、使用边界与购买前核验事项。`
+        : `查看与 ${tag} 相关的文章与评测，共 ${posts.length} 篇；内容涵盖套餐信息、使用场景、风险提示与购买前核验事项。`;
+
 const metadata = {
-    title: `${tag} 标签`,
-    description: `查看与 ${tag} 相关的文章与评测，共 ${posts.length} 篇内容。`,
+    title: tagTitle,
+    description: tagDescription,
     keywords: ["机场推荐", "科学上网", "翻墙", `${tag}`, `${tag} 教程`],
     canonical: Astro.url.href,
 };
@@ -41,8 +47,8 @@ const metadata = {
     <Schema
         type="CollectionPage"
         data={{
-            title: `${tag} 标签`,
-            description: `查看与 ${tag} 相关的文章与评测。`,
+            title: tagTitle,
+            description: tagDescription,
             url: Astro.url.href,
         }}
     />

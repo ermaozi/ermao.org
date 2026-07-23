@@ -22,7 +22,9 @@ const normalPosts = blog;
 const metadata = {
     title: pageNumber > 1 ? `博客 - 第 ${pageNumber} 页` : "博客",
     description:
-        "二毛翻墙机场严选博客，持续更新机场推荐、评测与使用教程，帮助你快速选择稳定高速节点。",
+        pageNumber > 1
+            ? `二毛翻墙机场严选博客第 ${pageNumber} 页，汇总机场推荐、评测、风险预警与使用教程。`
+            : "二毛翻墙机场严选博客，持续更新机场推荐、评测、风险预警与使用教程，帮助你核验套餐并筛选候选服务。",
     keywords: ["机场推荐", "翻墙", "VPN", "节点评测", "科学上网"],
     canonical: Astro.url.href,
 };

@@ -9,16 +9,15 @@ const { featuredPost, regularPosts } = organizeBlogPosts(blogEntries);
 const normalPosts = regularPosts.slice(0, 6);
 
 const metadata = {
-	title: "博客",
+	title: "机场推荐与风险预警",
 	description:
-		"二毛翻墙机场严选博客，持续更新机场推荐、评测与使用教程，帮助你快速选择稳定高速节点。",
+		"按稳定性、风险与使用场景整理机场候选清单，并提供最新评测、套餐核验和购买前风险提醒。",
 	keywords: ["机场推荐", "翻墙", "VPN", "节点评测", "科学上网"],
 	canonical: Astro.url.href,
 };
 ---
 
 <BaseLayout metadata={metadata}>
-	<h1 class="sr-only">二毛翻墙机场严选博客</h1>
 	<BlogListSection
 		posts={normalPosts}
 		featuredPost={featuredPost}
