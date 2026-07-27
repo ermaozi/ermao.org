@@ -1,5 +1,5 @@
 ---
-title: 2026 uuone机场评测：12元150G BGP三网优化机场推荐｜Netflix/ChatGPT解锁
+title: uuone 机场怎么样？2026 评测、价格套餐与购买前核验
 description: >-
   uuone机场怎么样？本文实测uuone机场速度、稳定性与流媒体解锁能力，月付仅12元享150G流量、BGP三网优化线路，晚高峰不限速，支持Netflix/Disney+/ChatGPT，附最新9折优惠码及Clash/Shadowrocket配置教程。
 pubDate: '2026-01-08'

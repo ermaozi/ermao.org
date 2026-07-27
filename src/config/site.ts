@@ -15,7 +15,7 @@ export const siteConfig = {
     email: "mailto:admin@ermao.net",
   },
   navLinks: [
-    { text: "首页", href: "/blog" },
+    { text: "博客", href: "/blog" },
     { text: "关于", href: "/about" },
     { text: "评测方法", href: "/editorial-policy" },
   ],

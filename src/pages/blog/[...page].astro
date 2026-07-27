@@ -36,5 +36,15 @@ const metadata = {
         featuredPost={featuredPost}
         showFeatured={shouldShowFeatured}
         page={page}
+        headingTitle={
+            pageNumber > 1
+                ? `机场评测与风险预警 - 第 ${pageNumber} 页`
+                : "机场评测与风险预警博客"
+        }
+        headingSubtitle={
+            pageNumber > 1
+                ? `继续浏览第 ${pageNumber} 页机场评测、风险预警与使用教程。`
+                : "持续更新机场评测、风险预警与使用教程，帮助你核验套餐并谨慎筛选服务。"
+        }
     />
 </BaseLayout>

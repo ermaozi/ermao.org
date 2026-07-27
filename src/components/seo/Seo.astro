@@ -41,7 +41,7 @@ const fullTitle =
 const canonicalURL =
     canonical ?? new URL(Astro.url.pathname, siteConfig.url).toString();
 const robotsContent = noindex
-    ? "noindex, nofollow"
+    ? "noindex, follow"
     : "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
 ---
 

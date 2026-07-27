@@ -29,6 +29,7 @@ export async function getStaticPaths() {
 
 const { tag, posts } = Astro.props;
 
+const shouldNoindex = tag === "uuone" || tag === "山水云";
 const tagTitle = tag === "uuone" ? "uuone 机场相关文章与评测" : `${tag} 标签`;
 const tagDescription =
     tag === "uuone"
@@ -40,6 +41,7 @@ const metadata = {
     description: tagDescription,
     keywords: ["机场推荐", "科学上网", "翻墙", `${tag}`, `${tag} 教程`],
     canonical: Astro.url.href,
+    noindex: shouldNoindex,
 };
 ---
 

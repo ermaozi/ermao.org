@@ -13,6 +13,8 @@ export interface Props {
     showMoreLink?: boolean;
     moreLinkHref?: string;
     moreLinkText?: string;
+    headingTitle?: string;
+    headingSubtitle?: string;
 }
 
 const {
@@ -23,6 +25,8 @@ const {
     showMoreLink = false,
     moreLinkHref = "/blog",
     moreLinkText = "查看更多文章",
+    headingTitle = "二毛翻墙机场严选",
+    headingSubtitle = "2026年最新的机场推荐，提供高速稳定的翻墙服务，满足您的上网需求。",
 } = Astro.props;
 ---
 
@@ -36,9 +40,9 @@ const {
     <div class="relative mx-auto max-w-5xl">
         <Headline
             tagline=""
-            title="二毛翻墙机场严选"
+            title={headingTitle}
             titleAs="h1"
-            subtitle="2026年最新的机场推荐，提供高速稳定的翻墙服务，满足您的上网需求。"
+            subtitle={headingSubtitle}
             classes={{
                 container: "mb-12 text-center",
                 title: "font-heading mb-4 text-4xl font-bold tracking-tight text-foreground md:text-6xl",
