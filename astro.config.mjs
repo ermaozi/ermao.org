@@ -46,6 +46,7 @@ export function remarkFragmentAliases() {
 const sitemapExcludedPaths = new Set([
   "/blog/tags/uuone/",
   "/blog/tags/%E5%B1%B1%E6%B0%B4%E4%BA%91/",
+  "/blog/tags/99%E5%90%A7/",
   "/contact/",
   "/services/",
   "/widgets/",
