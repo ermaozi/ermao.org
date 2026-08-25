@@ -47,6 +47,7 @@ const sitemapExcludedPaths = new Set([
   "/blog/tags/uuone/",
   "/blog/tags/%E5%B1%B1%E6%B0%B4%E4%BA%91/",
   "/blog/tags/99%E5%90%A7/",
+  "/blog/tags/%E8%9C%9C%E7%B3%96%E4%BA%91/",
   "/contact/",
   "/services/",
   "/widgets/",
