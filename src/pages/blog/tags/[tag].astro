@@ -36,10 +36,17 @@ const shouldNoindex =
     tag === "99吧" ||
     tag === "蜜糖云" ||
     tag === "随便云";
-const tagTitle = tag === "uuone" ? "uuone 机场相关文章与评测" : `${tag} 标签`;
+const tagTitle =
+    tag === "uuone"
+        ? "uuone 机场相关文章与评测"
+        : tag === "XSUS"
+          ? "XSUS 机场评测与历史跑路预警（已恢复）"
+          : `${tag} 标签`;
 const tagDescription =
     tag === "uuone"
         ? `查看 uuone 机场相关文章与评测，共 ${posts.length} 篇，了解套餐、线路、使用边界与购买前核验事项。`
+        : tag === "XSUS"
+          ? `查看 XSUS 机场评测与历史跑路预警（已恢复），共 ${posts.length} 篇；购买或续费前请分别核对当前套餐信息与风险状态。`
         : `查看与 ${tag} 相关的文章与评测，共 ${posts.length} 篇；内容涵盖套餐信息、使用场景、风险提示与购买前核验事项。`;
 
 const metadata = {
