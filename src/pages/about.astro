@@ -8,15 +8,15 @@ import aboutImage from "../assets/images/about-office.webp";
 const metadata = {
     title: "关于我们",
     description:
-        "二毛专注机场推荐与评测，提供稳定性、速度、价格与风险预警等实测信息，帮助你更快找到适合自己的机场服务。",
+        "二毛专注机场推荐与评测，整理套餐、价格与风险信息，区分作者体验和服务商资料，说明证据来源与验证边界，帮助你谨慎筛选机场服务。",
     keywords: ["关于我们", "机场推荐", "机场评测", "科学上网", "翻墙"],
 };
 
 const values = [
     {
-        title: "真实评测",
+        title: "证据透明",
         description:
-            "每篇推荐都基于实际使用体验，重点关注晚高峰稳定性、延迟、流媒体与 AI 解锁表现。",
+            "区分作者体验、服务商资料与未独立核验的信息；服务商提供的测速或解锁截图不能证明本站实测或长期稳定。",
     },
     {
         title: "持续更新",
@@ -85,6 +85,6 @@ const optimizedImage = await getImage({
         columns={3}
         tagline="我们的原则"
         title="我们如何做推荐"
-        subtitle="以实测和长期可用性为核心，尽量给出可验证、可执行的选择参考"
+        subtitle="说明资料来源与验证边界，尽量给出可核验、可执行的选择参考"
     />
 </BaseLayout>
