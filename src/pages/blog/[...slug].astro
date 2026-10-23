@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content, remarkPluginFrontmatter } = await render(post);
+const { Content, headings, remarkPluginFrontmatter } = await render(post);
 const { title, description, pubDate, updatedDate, author, image, tags, noindex } = post.data;
 
 const formattedDate = pubDate.toLocaleDateString("zh-CN", {
@@ -25,6 +25,8 @@ const formattedDate = pubDate.toLocaleDateString("zh-CN", {
 const readingTime = remarkPluginFrontmatter?.minutesRead
     ? `${Math.ceil(remarkPluginFrontmatter.minutesRead)} 分钟阅读`
     : "";
+
+const articleHeadings = headings.filter(({ depth }) => depth === 2);
 
 const metadata = {
     title: title,
@@ -57,6 +59,13 @@ const metadata = {
     />
     <section class="relative px-4 py-8 sm:px-6 lg:px-8 md:py-12">
         <div class="relative mx-auto max-w-3xl">
+            <nav aria-label="面包屑" class="mb-6 text-sm text-muted-foreground">
+                <a href="/" class="text-primary hover:underline">首页</a>
+                <span aria-hidden="true"> / </span>
+                <a href="/blog/" class="text-primary hover:underline">文章列表</a>
+                <span aria-hidden="true"> / </span>
+                <span aria-current="page">{title}</span>
+            </nav>
             <div class="mb-10 text-center">
                 <p
                     class="text-sm font-semibold tracking-wide text-primary uppercase"
@@ -83,11 +92,28 @@ const metadata = {
                 )
             }
 
+            {articleHeadings.length >= 3 && (
+                <nav aria-label="文章目录" class="mb-8 rounded-xl border border-border bg-muted p-4 sm:p-6">
+                    <h2 class="mb-3 font-semibold">本文目录</h2>
+                    <ul class="space-y-2">
+                        {articleHeadings.map(({ slug, text }) => (
+                            <li><a href={`#${slug}`} class="text-primary hover:underline">{text}</a></li>
+                        ))}
+                    </ul>
+                </nav>
+            )}
             <div
-                class="prose prose-lg dark:prose-invert mx-auto prose-h1:hidden prose-headings:text-foreground prose-a:text-primary hover:prose-a:underline prose-p:text-muted-foreground prose-strong:text-foreground prose-li:text-muted-foreground prose-code:text-primary prose-th:text-foreground prose-td:text-foreground"
+                class="article-content prose prose-lg dark:prose-invert mx-auto prose-h1:hidden prose-headings:text-foreground prose-a:text-primary hover:prose-a:underline prose-p:text-muted-foreground prose-strong:text-foreground prose-li:text-muted-foreground prose-code:text-primary prose-th:text-foreground prose-td:text-foreground"
             >
                 <Content />
             </div>
         </div>
     </section>
 </BaseLayout>
+
+<style>
+    .article-content :global(h2[id]),
+    .article-content :global(h3[id]) {
+        scroll-margin-top: 6rem;
+    }
+</style>
