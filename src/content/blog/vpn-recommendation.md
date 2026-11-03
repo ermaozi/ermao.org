@@ -104,6 +104,14 @@ tags:
 
 完整风险档案：[二毛主站跑路与风险记录](https://www.ermao.net/blog/categories/跑路机场/)
 
+## 选好候选后，怎样开始使用？
+
+下面三个入口通往二毛主站已有教程。先确认服务商提供适合你的设备和客户端的订阅格式，再按当前进度继续：
+
+- **还没安装客户端**：[按电脑、Android 或 iOS 选择安装教程](https://www.ermao.net/article/jichang-subscription-guide/#相关阅读)。
+- **已取得订阅链接**：[导入订阅、更新节点并验证连接](https://www.ermao.net/article/jichang-subscription-guide/#七、买完机场后怎么导入-clash)。
+- **节点全红或无法连接**：[先区分订阅、客户端与服务端问题](https://www.ermao.net/article/jichang-subscription-guide/#节点全红是什么意思)，不要仅凭一次失败就重复购买套餐。
+
 ## 怎样做自己的 3–7 天验证
 
 1. 在结算页截图保存价格、流量、周期、倍率和退款规则。
